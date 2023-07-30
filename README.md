@@ -1,2 +1,24 @@
-# ChillDrive-SpeedoX
-The FiveM speedometer is a thrilling gaming addition, displaying real-time vehicle speed, RPM bar, and gear position for a chilled driving experience.
+ChillDrive SpeedoX for FiveM
+
+Description:
+ChillDrive SpeedoX is a customizable and sleek speedometer script for FiveM gaming servers. It provides real-time speed and RPM information for vehicles, enhancing the immersive driving experience.
+
+Features:
+- Real-time speed display in km/h or mph
+- RPM bar with smooth animation
+- Gear indicator for forward gears
+- Clean and minimalistic design
+- Customizable font and colors
+- Easy integration into FiveM servers
+
+Credits:
+- Abdodev
+
+Usage:
+1. Add the "speedometer" folder to your FiveM server resources.
+2. Start the "speedometer" resource in your server.cfg.
+3. ChillDrive SpeedoX will now display in-game when driving a vehicle.
+
+Feel free to customize the script according to your server's needs.
+
+Enjoy gaming and chilling with ChillDrive SpeedoX!
