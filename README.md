@@ -11,8 +11,12 @@ Features:
 - Customizable font and colors
 - Easy integration into FiveM servers
 
+Preview:
+![Capture d’écran 2023-07-30 080223](https://github.com/AbdoDev0/ChillDrive-SpeedoX/assets/54995858/4fb2ec7d-4391-429a-9390-d6b302c0d84a)
+
+
 Credits:
-- Abdodev
+Abdodev
 
 Usage:
 1. Add the "speedometer" folder to your FiveM server resources.
